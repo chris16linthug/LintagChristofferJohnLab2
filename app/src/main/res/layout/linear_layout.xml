@@ -29,11 +29,11 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
                 android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="Fort Santiago"
+                android:text="Intramuros"
                 android:textSize="30sp" />
         </LinearLayout>
 
@@ -59,7 +59,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
                 android:layout_weight="1"
-                android:text="Intramuros, Manila, 1002 Metro Manila"
+                android:text="Bonifacio Dr & Padre Burgos St, Manila, Luzon 1002, Philippines "
                 android:textSize="14sp" />
 
         </LinearLayout>
@@ -74,10 +74,10 @@
                 android:id="@+id/textView4"
                 android:layout_width="64dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="Distance from UST:"
                 android:layout_marginBottom="20dp"
                 android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:text="Distance from UST:"
                 android:textSize="18sp"
                 android:typeface="serif" />
 
@@ -87,7 +87,7 @@
                 android:layout_height="43dp"
                 android:layout_marginBottom="20dp"
                 android:layout_weight="1"
-                android:text="(3.4 km) via R-8 and Riverside Dr"
+                android:text="(4.3 km) via R-8"
                 android:textSize="14sp" />
         </LinearLayout>
 
@@ -101,9 +101,9 @@
                 android:id="@+id/button4"
                 android:layout_width="1dp"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="30dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
                 android:layout_weight="1"
                 android:text="Back" />
 
@@ -111,9 +111,9 @@
                 android:id="@+id/button5"
                 android:layout_width="1dp"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="10dp"
                 android:layout_marginLeft="30dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
                 android:layout_weight="1"
                 android:text="Next" />
         </LinearLayout>
